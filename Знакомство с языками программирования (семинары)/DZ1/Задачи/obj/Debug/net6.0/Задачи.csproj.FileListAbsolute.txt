@@ -1,0 +1,15 @@
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\bin\Debug\net6.0\Задачи.exe
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\bin\Debug\net6.0\Задачи.deps.json
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\bin\Debug\net6.0\Задачи.runtimeconfig.json
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\bin\Debug\net6.0\Задачи.dll
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\bin\Debug\net6.0\Задачи.pdb
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\Задачи.csproj.AssemblyReference.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\Задачи.GeneratedMSBuildEditorConfig.editorconfig
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\Задачи.AssemblyInfoInputs.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\Задачи.AssemblyInfo.cs
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\Задачи.csproj.CoreCompileInputs.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\Задачи.dll
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\refint\Задачи.dll
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\Задачи.pdb
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\Задачи.genruntimeconfig.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ1\Задачи\obj\Debug\net6.0\ref\Задачи.dll
